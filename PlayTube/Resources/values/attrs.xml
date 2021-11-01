@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="ExtraTheme">
+    <attr name="colorSecondaryExtra" format="reference|color"/>
+    <attr name="colorBackground" format="reference|color"/>
+    <attr name="colorDivider" format="reference|color"/>
+    <attr name="colorReact" format="reference|color"/>
+    <attr name="ShapeCircleColor1" format="reference|color"/>
+    <attr name="ShapeCircleColor2" format="reference|color"/>
+    <attr name="ShapeCircleColor3" format="reference|color"/>
+    <attr name="ShapeCircleColor4" format="reference|color"/>
+    <attr name="ShapeCircleColor5" format="reference|color"/>
+    <attr name="ShapeCircleColor6" format="reference|color"/>
+  </declare-styleable>
+
+  <declare-styleable name="TemplateView">
+    <attr name="gnt_template_type" format="reference"/>
+  </declare-styleable>
+
+  <declare-styleable name="CircleButton">
+    <attr name="cb_color" format="color" />
+    <attr name="cb_pressedRingWidth" format="dimension" />
+  </declare-styleable>
+
+
+  <declare-styleable name="SpaceNavigationView">
+    <attr name="space_item_icon_size" format="dimension" />
+    <attr name="space_item_icon_only_size" format="dimension" />
+    <attr name="space_item_text_size" format="dimension" />
+    <attr name="space_background_color" format="color" />
+    <attr name="centre_button_color" format="color" />
+    <attr name="active_item_color" format="color" />
+    <attr name="inactive_item_color" format="color" />
+    <attr name="centre_button_icon" format="reference" />
+    <attr name="active_centre_button_icon_color" format="color" />
+    <attr name="inactive_centre_button_icon_color" format="color" />
+    <attr name="active_centre_button_background_color" format="color"/>
+    <attr name="centre_part_linear" format="boolean" />
+  </declare-styleable>
+
+
+</resources>

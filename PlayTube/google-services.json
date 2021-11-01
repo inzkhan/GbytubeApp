@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "738059222411",
+    "project_id": "gbytube-a8cf3",
+    "storage_bucket": "gbytube-a8cf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738059222411:android:41b8696e02e700a5f2c38e",
+        "android_client_info": {
+          "package_name": "com.gbytube.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738059222411-ad0cjbp4bnh6g16ebcj3f6ord5q72sth.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gbytube.app",
+            "certificate_hash": "b54725d92a711ae99b9e36040f58d4c22d15dcf4"
+          }
+        },
+        {
+          "client_id": "738059222411-l15n10nkvro1k2oml9ccifmvdovlbcvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gbytube.app",
+            "certificate_hash": "5b416d4c3fea4a2794013b63628d6be8516e6063"
+          }
+        },
+        {
+          "client_id": "738059222411-pn4sqndc84nmbkioijtj9spkp0cfnr99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gbytube.app",
+            "certificate_hash": "d98838dd06bb937cf582696146f5d3ba6fa75f84"
+          }
+        },
+        {
+          "client_id": "738059222411-onol7b07o7gpe819rmrdaekijrfjb3dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfPT78A30WLPUW5Ap5Tmda6jOXzOqHlZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738059222411-onol7b07o7gpe819rmrdaekijrfjb3dp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
